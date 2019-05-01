@@ -1,6 +1,6 @@
 # bmiapp
 
-A new Flutter application.
+Flutter speech to text example application.  Speech to text integrated with a lesson from Programming with Paulo's Flutter series.
 
 ## Getting Started
 
